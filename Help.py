@@ -1,3 +1,5 @@
-for i in range(5):
-    print(i)
-print('These numbers above are just for fun')
+while True:
+    print('What is your name? ')
+    print('How old are you? ')
+    print('have a Nice day.')
+    break
